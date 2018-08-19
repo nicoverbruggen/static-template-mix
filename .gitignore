@@ -1,0 +1,5 @@
+/node_modules
+# If you want to commit the committed files, you can remove the few next lines.
+# I recommend running `yarn run production` and then checking out your changes.
+/dist
+mix-manifest.json
